@@ -1,0 +1,121 @@
+.order-page.headline {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.order-page.headline-smaller {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.order-page.still-loading-header {
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+}
+
+.order-page.border-icon {
+    border: 2px solid #e6e6e6;
+    color: #e6e6e6;
+    padding: 3px 6px 3px 6px;
+}
+
+.order-page.border-quantity-text {
+    border-top: 2px solid #e6e6e6;
+    border-bottom: 2px solid #e6e6e6;
+    padding: 2px 12px 2px 12px;
+}
+
+.order-page.text-color-red {
+    color: #e81919;
+}
+
+.order-page.text-color-green {
+    color: green;
+}
+
+.order-page.padding-left {
+    padding-left: 30px;
+}
+
+.order-page.margin-left {
+    margin-left: 10px;
+}
+
+.order-page.border-bottom-black {
+    border-bottom: 1px solid black;
+}
+
+.order-page.product-info-block {
+    width: 220px;
+}
+
+.order-page.button-design {
+    border: 1px solid #777777;
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+}
+
+.order-page.button-text {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.order-page.button-background-color-gradient {
+    background-image: linear-gradient(#fde8af, #fcca2a);
+}
+
+.order-page.row-block-design {
+    width: 800px;
+    height: 100px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.order-page.float-left {
+    float: left;
+}
+
+.order-page.float-left-new {
+    float: left;
+}
+
+.order-page.float-right {
+    float: right;
+}
+
+.order-page.summary-block {
+    width: 190px;
+}
+
+.order-page.pointer:hover {
+    cursor: pointer;
+    color: #9f9f9f;
+}
+
+@media screen and (max-width: 900px) {
+    .order-page.row-block-design {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .order-page.row-block-design {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .order-page.row-block-design {
+        width: 100%;
+        border-bottom: 1px solid #eeeeee;
+    }
+
+    .order-page.float-left-new {
+        float: unset;
+    }
+
+    .order-page.summary-block {
+        width: 100%;
+    }
+}

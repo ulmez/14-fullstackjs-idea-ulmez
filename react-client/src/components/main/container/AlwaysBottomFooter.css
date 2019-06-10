@@ -1,0 +1,9 @@
+.main-component.always-bottom-footer {
+    min-height: calc(100vh - 237px);
+}
+
+@media screen and (max-width: 575px) {
+    .main-component.always-bottom-footer {
+        min-height: calc(100vh - 420px);
+    }
+}

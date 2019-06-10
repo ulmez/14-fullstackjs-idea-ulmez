@@ -1,0 +1,15 @@
+.dashboard-page.main-headline {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.dashboard-page.smaller-headline {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.dashboard-page.still-loading-header {
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+}

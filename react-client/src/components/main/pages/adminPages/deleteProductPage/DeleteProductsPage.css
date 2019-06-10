@@ -1,0 +1,17 @@
+.delete-products-page.main-headline {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.delete-products-page.smaller-headline {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.delete-products-page.red-text {
+    color: red;
+}
+
+.delete-products-page.pointer {
+    cursor: pointer;
+}

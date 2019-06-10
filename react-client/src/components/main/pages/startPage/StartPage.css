@@ -1,0 +1,109 @@
+.start-page.header {
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #999999;
+}
+
+.start-page.still-loading-header {
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+}
+
+.start-page.smaller-header {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.start-page.regular-text {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.start-page.paging-text-gray {
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+}
+
+.start-page.paging-text-blue {
+    font-size: 14px;
+    font-weight: bold;
+    color: #005DC3;
+}
+
+.start-page.pointer-on-hover:hover {
+    cursor: pointer;
+}
+
+.start-page.paging-text-black {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+
+.start-page.paging-width {
+    width: 400px;
+}
+
+.start-page.my-paging-selector-bar {
+    -ms-flex: 0 0 150px;
+    flex: 0 0 150px;
+    word-spacing: 14px;
+}
+
+.start-page.line-border {
+    border-bottom: 1px solid #999999;
+}
+
+.start-page.clear-float {
+    clear: both;
+}
+
+.start-page.rate-container {
+    height: 17px;
+    width: 75px;
+    padding-left: 20px;
+    float: left;
+}
+
+.start-page.star-gold {
+    font-size: 17px;
+    color: gold;
+}
+
+.start-page.red {
+    color: red;
+}
+
+.start-page.cursor {
+    cursor: pointer;
+}
+
+.start-page.cursor:hover {
+    color: #005DC3;
+}
+
+.start-page.pointer {
+    cursor: pointer;
+}
+
+.gradeBlock:focus, .gradeBlock:hover > .hover::before {
+    content: "\f005";
+}
+
+.hover:focus, .hover:hover {
+    content: "\f005";
+}
+
+.hover:focus::before, .hover:hover::before {
+    content: "\f005";
+}
+
+.hover:focus ~ .hover, .hover:hover ~ .hover {
+    content: "\f006";
+}
+
+.hover:focus ~ .hover::before, .hover:hover ~ .hover::before {
+    content: "\f006";
+}

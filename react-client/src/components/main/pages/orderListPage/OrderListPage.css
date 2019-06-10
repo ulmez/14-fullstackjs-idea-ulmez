@@ -1,0 +1,18 @@
+.order-list-page {
+    font-size: 14px;
+}
+
+.order-list-page.header {
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #999999;
+}
+
+.order-list-page.under-header {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.order-list-page.liner {
+    border-bottom: 1px solid #999999;
+}

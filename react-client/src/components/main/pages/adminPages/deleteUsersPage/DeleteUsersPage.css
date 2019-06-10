@@ -1,0 +1,17 @@
+.delete-users-page.main-headline {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.delete-users-page.smaller-headline {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.delete-users-page.red-text {
+    color: red;
+}
+
+.delete-users-page.pointer {
+    cursor: pointer;
+}

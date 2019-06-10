@@ -1,0 +1,21 @@
+.footer.background-blue {
+    background-color: #212F3F;
+    color: white;
+    font-size: 12px;
+}
+
+.footer.headline {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer.center-block {
+    width: 600px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 665px) {
+    .footer.center-block {
+        width: 90%;
+    }
+}
