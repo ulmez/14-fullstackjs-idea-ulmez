@@ -22,7 +22,7 @@
     "http-errors": "^1.7.0",
     "jsonwebtoken": "^8.3.0",
     "jwt-blacklist": "0.0.2",
-    "mongoose": "^5.2.0",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "multer": "^1.3.1",
     "pg": "^7.3.0"
