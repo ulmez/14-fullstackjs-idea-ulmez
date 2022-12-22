@@ -20,7 +20,7 @@
     "express": "^4.16.2",
     "fawn": "^2.1.5",
     "http-errors": "^1.7.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-blacklist": "0.0.2",
     "mongoose": "^5.2.0",
     "morgan": "^1.9.0",
